@@ -12,4 +12,4 @@ Fırat Üniversitesi Yazılım Mühendisliği Bölümü **YMH 219 - Nesne Tabanl
 3. Visual Studio ile projeyi açıp çalıştırın (F5).
 
 ## Ekran Görüntüsü
-![Uygulama Önizlemesi](app_preview.png)
+![Uygulama Önizlemesi](app_preview.png?v=2)
