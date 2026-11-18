@@ -302,7 +302,7 @@ namespace YMH219_SpeechApp
             {
                 try
                 {
-                    _sttService.StartListening("en-US");
+                    _sttService.StartListening();
                     _btnStartListen.Enabled = false;
                     _btnStopListen.Enabled = true;
                     _lblSttStatus.ForeColor = Color.FromArgb(22, 163, 74);
